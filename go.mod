@@ -1,3 +1,3 @@
-module github.com/measure-compute-visualize/quad_tile
+module github.com/Kasika-OpenSource/quad_tile
 
 go 1.13

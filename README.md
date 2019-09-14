@@ -9,7 +9,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/measure-compute-visualize/quad_tile"
+	"github.com/Kasika-OpenSource/quad_tile"
 )
 
 func main() {

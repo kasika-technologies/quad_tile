@@ -1,4 +1,4 @@
-package quad_tile
+package tile
 
 import (
 	"math"

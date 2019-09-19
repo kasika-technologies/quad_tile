@@ -9,7 +9,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/Kasika-OpenSource/quad_tile"
+	"github.com/kasika-technologies/quad_tile"
 )
 
 func main() {
